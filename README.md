@@ -17,7 +17,7 @@ Skills: Swift / iOS / RxSwift / SwiftUI / Combine / CoreData / CoreBluetooth / C
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ![](https://github-readme-stats.vercel.app/api?username=claudiomadureira&show_icons=true&count_private=true&include_all_commits=true&hide=stars&title_color=24292e&text_color=586069)
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=claudiomadureira&layout=compact)
 <!--
 **claudiomadureira/claudiomadureira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
