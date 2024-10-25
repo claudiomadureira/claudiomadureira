@@ -16,7 +16,7 @@ Skills: Swift / iOS / RxSwift / SwiftUI / Combine / CoreData / CoreBluetooth / C
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/claudiomadureira) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/claudio-madureira-silva-filho)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-![](https://github-readme-stats.vercel.app/api?username=claudiomadureira&show_icons=true&count_private=true&include_all_commits=true&hide=stars&title_color=24292e&text_color=586069)
+<!-- ![](https://github-readme-stats.vercel.app/api?username=claudiomadureira&show_icons=true&count_private=true&include_all_commits=true&hide=stars&title_color=24292e&text_color=586069) -->
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=claudiomadureira&layout=compact)
 <!--
